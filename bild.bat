@@ -1,0 +1,1 @@
+pyinstaller --onefile --name=integral_calculate_01 main.py
